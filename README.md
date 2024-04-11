@@ -1,14 +1,17 @@
-# Title: Data Analysis using Google Colab
+# Data Analysis using Google Colab
 
 This repository contains data analysis projects completed using Google Colab. The goal is to provide a central location for storing and sharing these analyses, and to encourage further exploration and collaboration.
 
-## Project 1: Analyzing Movie Ratings
+## Project 1: Titanic Analysis
 
-This project focuses on analyzing movie ratings data from a Kaggle dataset. The analysis includes:
+This project focuses on analyzing the famous Titanic passenger data to gain insights into the factors that contributed to passenger survival. The analysis includes:
 
-* **Data Cleaning:** Removing duplicate entries and filtering based on rating values.
-* **Exploratory Data Analysis:** Visualizing the distribution of ratings, identifying the most popular genres, and calculating average ratings for different genres.
-* **Modeling:** Building a simple linear regression model to predict movie ratings based on features like budget and popularity.
+* **Data Cleaning:** Removing missing values, correcting anomalies, and formatting data for analysis.
+* **Exploratory Data Analysis:** Visualizing the distribution of passenger attributes like age, gender, class, and survival rates.
+* **Modeling:** Building a logistic regression model to predict passenger survival based on various features.
+* **Evaluation:** Evaluating the performance of the model and interpreting its results.
+
+The Titanic analysis demonstrates the capabilities of Google Colab for data analysis and visualization. It also highlights the importance of data cleaning and feature engineering in building accurate predictive models.
 
 ## Project 2: Predicting Stock Prices
 
